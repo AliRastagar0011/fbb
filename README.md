@@ -1,2 +1,1 @@
-install1
-pkgq
+fbb
